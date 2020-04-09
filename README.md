@@ -1,4 +1,4 @@
-# GAMEZONE19761 REPOSITORY
+# GAMEZONE REPOSITORY
 # Versão Actual: 1.3
 
 Instruções para a adição deste repo:
